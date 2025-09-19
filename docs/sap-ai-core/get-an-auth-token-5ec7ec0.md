@@ -25,7 +25,7 @@ curl is likely to be installed on your operating system by default. To check, op
 
 ## Procedure
 
-1.  Set up your environment as follows:
+1.  Set up your environment as follows. The values for the variables can be found in the service key. The `AUTH_URL` variable is equivalent to the `url` variable in the service key.
 
     ```
     AI_API_URL=<YOUR AI API URL>
